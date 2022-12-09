@@ -14,7 +14,7 @@
           "architecture": "k1921vk",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "http://git.dcvostok.ru/vostok-1/vostok_uno_vn035/vostok-1-frmwrk-vn-arduino/-/archive/v1.0.0-pre/vostok-1-frmwrk-vn-arduino-v1.0.0-pre.zip",
+          "url": "http://vostok-arduino.ru/vostok-1-frmwrk-vn-arduino-v1.0.0-pre.zip",
           "archiveFileName": "vostok-1-frmwrk-vn-arduino-v1.0.0-pre.zip",
           "checksum": "SHA-256:A320B83B0A7A65FD99969474848BE3849EB0209AF0484D8CC04B61904A87E73C",
           "size": "2062814",
@@ -145,8 +145,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/DCVostok/k1921vkx_flasher/releases/download/v1.2.1/k1921vkx_flasher-1.2.1-win.zip",
               "archiveFileName": "k1921vkx_flasher-1.2.1-win.zip",
-              "checksum": "SHA-256:8F6E881442BA0FD4916A733403A871BF550B3C6EC2BC9AA10D15A60C5BB498DF",
-              "size": "36890759"
+              "checksum": "SHA-256:B787ACE68F8131DCBF6E38B8FF93B31CF5D9844E9183991016B8216E6B543F00",
+              "size": "36890793"
             },
             {
               "host": "x86_64-apple-darwin",
