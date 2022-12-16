@@ -12,6 +12,43 @@
         {
           "name": "k1921vk MCU based boards",
           "architecture": "k1921vk",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/DCVostok/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.0.0.zip",
+          "archiveFileName": "vostok-1-frmwrk-vn-arduino-1.0.0.zip",
+          "checksum": "SHA-256:AAC8D2ADC04B0A043AC68805644A3ED5BBC820CECFE7F94920A9134F00F586CA",
+          "size": "2063501",
+          "boards": [
+            {
+              "name": "Vostok UNO-VN035"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Vostok",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "10.3.1-2.3"
+            },
+            {
+              "packager": "Vostok",
+              "name": "k1921vk_flasher",
+              "version": "1.2.1"
+            },
+            {
+              "packager": "Vostok",
+              "name": "framework-k1921vk-sdk",
+              "version": "1.7.3"
+            },
+            {
+              "packager": "Vostok",
+              "name": "CMSIS",
+              "version": "5.8.0"
+            }
+          ]
+        },
+        {
+          "name": "k1921vk MCU based boards",
+          "architecture": "k1921vk",
           "version": "1.0.0-pre",
           "category": "Contributed",
           "url": "https://github.com/DCVostok/vostok-1-frmwrk-vn-arduino/archive/refs/tags/v1.0.0-pre.zip",
