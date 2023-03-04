@@ -259,8 +259,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/DCVostok/k1921vkx_flasher/releases/download/v1.3.1/k1921vkx_flasher-1.3.1-win.zip",
               "archiveFileName": "k1921vkx_flasher-1.3.1-win.zip",
-              "checksum": "SHA-256:38FFB6CF4F6EA25141778CA091A9232718DEA3BD73E4D13023F199A2CCDC7CAC",
-              "size": "35496392"
+              "checksum": "SHA-256:788F45653457E618C87BADEDA743BDFD5C83E241397C2A1A64466270BAE8E5E4",
+              "size": "35496446"
             },
             {
               "host": "x86_64-apple-darwin",
